@@ -47,5 +47,5 @@ GitHub: [@RajVishwakarma18](https://github.com/RajVishwakarma18)
 ## 📌 Note
 
 To use this app, you'll need your own API key from [OpenWeatherMap](https://openweathermap.org/appid).  
-Replace `"YOUR_API_KEY_HERE"` in `main.js` with your actual key.
+Replace `"cf73d38d029b5b594a52f8399a2f992f"` in `main.js` with your actual key.
 
